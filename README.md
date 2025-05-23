@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00ffd1&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+Ali+Naeem+Here;Frontend+Dev+%F0%9F%9A%80+%7C+Cybersecurity+Student;Crafting+Modern+UIs+with+TailwindCSS;Learning+JS+and+Backend+Techs+%F0%9F%92%BB;Code.+Create.+Conquer." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=149414&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Ali+Naeem;Frontend+Dev+%F0%9F%9A%80+%7C+Cybersecurity+Student;Crafting+Modern+UIs+with+TailwindCSS;Learning+JS+and+Backend+Techs+%F0%9F%92%BB;Code.+Create.+Conquer." alt="Typing SVG" />
 </h1>
 
 ### :rocket: About Me
