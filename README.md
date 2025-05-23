@@ -6,7 +6,8 @@
 - :telescope: I’m currently working on <strong>HTML, CSS, and JavaScript</strong> projects  
 - :seedling: Learning full-stack development with a focus on cybersecurity and front-end skills  
 - :speech_balloon: Ask me anything about <strong>frontend, UI/UX, or basic cybersecurity</strong>  
-- :zap: Fun fact: I  love martial arts 🥋🛸  
+- :mailbox: Reach me at: <strong>alinaeemkhan014@gmail.com</strong>  
+- :zap: Fun fact: I love reading books and practice martial arts 🥋📚  
 
 ---
 
