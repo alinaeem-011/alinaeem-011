@@ -7,7 +7,6 @@
 - :seedling: Learning full-stack development with a focus on cybersecurity and front-end skills  
 - :speech_balloon: Ask me anything about <strong>frontend, UI/UX, or basic cybersecurity</strong>  
 - :mailbox: Reach me at: <strong>alinaeemkhan014@gmail.com</strong>  
-- :iphone: Contact me at: <strong>0317-1874178</strong>  
 - :zap: Fun fact: I build drones with ice cream sticks and love martial arts 🥋🛸  
 
 ---
@@ -15,10 +14,7 @@
 ### :globe_with_meridians: Connect With Me
 <p align="center">
   <a href="mailto:alinaeemkhan014@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="tel:03171874178">
-    <img src="https://img.shields.io/badge/Phone-0317--1874178-blue?style=for-the-badge&logo=phone&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-alinaeemkhan014@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -26,18 +22,18 @@
 
 ### :hammer_and_wrench: Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,figma,linux,npm,vercel&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,canva,css,js,react,tailwind,git,github,vscode,figma,linux,npm,vercel&perline=8" />
 </p>
 
 ---
 
 ### :bar_chart: GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliNaeemDev&show_icons=true&theme=tokyonight&hide=issues&border_radius=10" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliNaeemDev&layout=compact&theme=tokyonight&border_radius=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alinaeem-011&show_icons=true&theme=tokyonight&hide=issues&border_radius=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinaeem-011&layout=compact&theme=tokyonight&border_radius=10" height="180"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AliNaeemDev&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alinaeem-011&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" height="180"/>
 </p>
 
 ---
