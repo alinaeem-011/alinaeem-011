@@ -3,12 +3,12 @@
 </h1>
 
 ### :rocket: About Me
-- :telescope: I’m currently working on <strong>HTML, CSS, and JavaScript</strong> projects
-- :seedling: Learning full-stack development with a focus on cybersecurity and front-end skills
-- :speech_balloon: Ask me anything about <strong>frontend, UI/UX, or basic cybersecurity</strong>
-- :mailbox: Reach me at: <strong>alinaeemkhan014@gmail.com</strong>
-- :iphone: Contact me at: <strong>0317-1874178</strong>
-- :zap: Fun fact: I build drones with ice cream sticks and love martial arts 🥋🛸
+- :telescope: I’m currently working on <strong>HTML, CSS, and JavaScript</strong> projects  
+- :seedling: Learning full-stack development with a focus on cybersecurity and front-end skills  
+- :speech_balloon: Ask me anything about <strong>frontend, UI/UX, or basic cybersecurity</strong>  
+- :mailbox: Reach me at: <strong>alinaeemkhan014@gmail.com</strong>  
+- :iphone: Contact me at: <strong>0317-1874178</strong>  
+- :zap: Fun fact: I build drones with ice cream sticks and love martial arts 🥋🛸  
 
 ---
 
@@ -40,10 +40,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AliNaeemDev&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" height="180"/>
 </p>
 
+---
+
 <h3 align="center">:rocket: Skill Progress</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-Intermediate-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-Intermediate-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-Beginner-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TailwindCSS-Learning-%2338BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-Design%20Tool-%2300C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
