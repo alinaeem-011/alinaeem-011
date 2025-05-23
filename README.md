@@ -22,7 +22,7 @@
 
 ### :hammer_and_wrench: Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,canva,css,js,react,tailwind,git,github,vscode,figma,linux,npm,vercel&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,figma,linux,npm,vercel&perline=8" />
 </p>
 
 ---
@@ -44,5 +44,4 @@
   <img src="https://img.shields.io/badge/CSS-Intermediate-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-Beginner-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TailwindCSS-Learning-%2338BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-Design%20Tool-%2300C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
